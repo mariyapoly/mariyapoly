@@ -4,11 +4,10 @@
 <h1 align="center">Hi 👋, I'm Mst. Poly Khatun</h1>
 <h3 align="center">Front-End Developer || React Developer</h3>
 
-<p>Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
-</p>
-
 ![Profile views](https://gpvc.arturio.dev/mariyapoly)  
 
+<p>Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/polykhatun21" target="blank"><img src="https://img.shields.io/twitter/follow/polykhatun21?logo=twitter&style=for-the-badge" alt="polykhatun21" /></a> </p>
