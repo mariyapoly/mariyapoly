@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQFVMm8k3IS62w/profile-displaybackgroundimage-shrink_200_800/0/1638359372459?e=1645660800&v=beta&t=jzecdAI5qb0640EzcQn5n1RkNQPC_iEWiE0PrfpBcq0)
+![Front-End Developer || React Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFVMm8k3IS62w/profile-displaybackgroundimage-shrink_200_800/0/1638359372459?e=1645660800&v=beta&t=jzecdAI5qb0640EzcQn5n1RkNQPC_iEWiE0PrfpBcq0)
 
 ### Hi there 👋, my name is Mst. Poly Khatun
 #### Front-End Developer || React Developer
