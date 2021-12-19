@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mariyapoly)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariyapoly" alt="mariyapoly" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/polykhatun21" target="blank"><img src="https://img.shields.io/twitter/follow/polykhatun21?logo=twitter&style=for-the-badge" alt="polykhatun21" /></a> </p>
 
@@ -35,7 +35,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyapoly&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariyapoly)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/mariyapoly)  
 
