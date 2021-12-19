@@ -7,11 +7,8 @@
 Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
 
 Skills:  Expertise: HTML, CSS, JavaScript, React, React Bootstrap, JQuery plugin, ( PSD, XD, Figma to Html ), Bootstrap. 
-
 Comfortable: Node.js, Express.js, MongoDB, Firebase authentication, Material-UI, Sass.  
-
 Familiar: Tailwind Css.  
-
 Tools: VS Code, Chrome Dev Tools, GitHub, Netlify, Firebase, Heroku.
 
 - 🌱 I’m currently learning JavaScript 
