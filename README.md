@@ -7,6 +7,7 @@
 <p>Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
 </p>
 
+![Profile views](https://gpvc.arturio.dev/mariyapoly)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariyapoly" alt="mariyapoly" /></a> </p>
 
@@ -32,11 +33,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariyapoly&show_icons=true&locale=en&layout=compact" alt="mariyapoly" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyapoly&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariyapoly)  
+
+![GitHub metrics](https://metrics.lecoq.io/mariyapoly)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariyapoly)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariyapoly)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mariyapoly)  
 
 
-![Profile views](https://gpvc.arturio.dev/mariyapoly)  
+
