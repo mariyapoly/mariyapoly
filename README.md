@@ -7,7 +7,6 @@
 <p>Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariyapoly&label=Profile%20views&color=0e75b6&style=flat" alt="mariyapoly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariyapoly" alt="mariyapoly" /></a> </p>
 
