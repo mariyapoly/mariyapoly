@@ -36,9 +36,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyapoly&show_icons=true&count_private=true)  
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/mariyapoly)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariyapoly)  
 
  
