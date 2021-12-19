@@ -1,4 +1,4 @@
-![Front-End Developer || React Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFVMm8k3IS62w/profile-displaybackgroundimage-shrink_200_800/0/1638359372459?e=1645660800&v=beta&t=jzecdAI5qb0640EzcQn5n1RkNQPC_iEWiE0PrfpBcq0)
+(https://media-exp1.licdn.com/dms/image/C4E16AQFVMm8k3IS62w/profile-displaybackgroundimage-shrink_200_800/0/1638359372459?e=1645660800&v=beta&t=jzecdAI5qb0640EzcQn5n1RkNQPC_iEWiE0PrfpBcq0)
 
 ### Hi there 👋, my name is Mst. Poly Khatun
 #### Front-End Developer || React Developer
@@ -7,8 +7,11 @@
 Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
 
 Skills:  Expertise: HTML, CSS, JavaScript, React, React Bootstrap, JQuery plugin, ( PSD, XD, Figma to Html ), Bootstrap. 
+
 Comfortable: Node.js, Express.js, MongoDB, Firebase authentication, Material-UI, Sass.  
+
 Familiar: Tailwind Css.  
+
 Tools: VS Code, Chrome Dev Tools, GitHub, Netlify, Firebase, Heroku.
 
 - 🌱 I’m currently learning JavaScript 
