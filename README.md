@@ -1,13 +1,11 @@
 ![Front-End Developer || React Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFVMm8k3IS62w/profile-displaybackgroundimage-shrink_200_800/0/1638359372459?e=1645660800&v=beta&t=jzecdAI5qb0640EzcQn5n1RkNQPC_iEWiE0PrfpBcq0)
 
-### Hi there 👋, my name is Mst. Poly Khatun
-#### Front-End Developer || React Developer
-
-
-Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
 
 <h1 align="center">Hi 👋, I'm Mst. Poly Khatun</h1>
-<h3 align="center">A passionate about Web Design and Development</h3>
+<h3 align="center">Front-End Developer || React Developer</h3>
+
+<p>Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web programmer with a passion for everything tech-related, from frontend to backend. I have strong skills in programming and design using the latest trends of technology and love working on innovative solutions to problems.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariyapoly&label=Profile%20views&color=0e75b6&style=flat" alt="mariyapoly" /> </p>
 
@@ -35,19 +33,11 @@ Myself Mst. Poly Khatun. I am a front-end developer. I am an enthusiastic web pr
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariyapoly&show_icons=true&locale=en&layout=compact" alt="mariyapoly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariyapoly&show_icons=true&locale=en" alt="mariyapoly" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariyapoly&" alt="mariyapoly" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyapoly)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyapoly&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariyapoly)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mariyapoly)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariyapoly)  
 
 ![Profile views](https://gpvc.arturio.dev/mariyapoly)  
